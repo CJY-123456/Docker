@@ -1,0 +1,5 @@
+venv/
+**/migrations/**
+**/tests/**
+__pycache__/
+**/qops_server/settings/
